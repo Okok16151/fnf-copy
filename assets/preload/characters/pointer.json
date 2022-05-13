@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "point idle"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "point left"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "point down"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "point up"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "point right"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "dead",
+			"indices": [],
+			"name": "point dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pointer-face",
+	"position": [
+		-1750,
+		-10
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-160,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

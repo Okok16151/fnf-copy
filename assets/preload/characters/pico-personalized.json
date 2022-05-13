@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "look",
+			"indices": [],
+			"name": "pico look"
+		},
+		{
+			"offsets": [
+				11,
+				2
+			],
+			"loop": false,
+			"fps": 5,
+			"anim": "shoot",
+			"indices": [],
+			"name": "pico shoot"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico idle"
+		},
+		{
+			"offsets": [
+				11,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico up"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pico down"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "pico bruh"
+		},
+		{
+			"offsets": [
+				8,
+				6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico ermmm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "pico right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "pico left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "pico farts",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "pico note left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "dead",
+			"loop": false,
+			"name": "pico dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico-personalized",
+	"position": [
+		350,
+		310
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		490,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				2
+			],
+			"fps": 18,
+			"anim": "shoot",
+			"indices": [],
+			"name": "dad shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				2
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dad left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-2
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dad down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dad up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dad right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "dad idle"
+		},
+		{
+			"offsets": [
+				-2,
+				2
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "look",
+			"loop": false,
+			"name": "dad look"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad-personalized",
+	"position": [
+		-50,
+		-200
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-30,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
