@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Pudding", "gf", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Happy Birthday Hqc",
+	"weekBefore": "week7",
+	"difficulties": "normal",
+	"weekName": "Personalized2",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
